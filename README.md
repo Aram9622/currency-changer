@@ -1,7 +1,7 @@
 ## Currency Changer
 
 
-- clone git repository ()
+- clone git repository ( https://github.com/Aram9622/currency-changer )
 - composer install
 - create .env
 - fill FREE_CURRENCY_API_KEY
